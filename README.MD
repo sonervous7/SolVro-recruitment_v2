@@ -31,14 +31,9 @@ The repository is organized into several modules, each responsible for a distinc
 #### Installation
 
 1. **Clone the repository**:
-
    ```bash
    git clone https://github.com/yourusername/cocktail-clustering.git
    cd cocktail-clustering
-
-
-  
-
 2. **Create a virtual environment (optional but recommended)**:
 python3 -m venv venv
 source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
