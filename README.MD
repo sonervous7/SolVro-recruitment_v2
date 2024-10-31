@@ -3,7 +3,7 @@
 ### Overview
 This project is designed to analyze, clean, and cluster cocktail data based on various characteristics, such as ingredient types, alcohol content, and glass type. Through data preprocessing, feature engineering, clustering, and visualization, this project aims to uncover patterns in cocktail recipes and group them into clusters for easier exploration and analysis.
 
-### [Pobierz raport PDF](https://github.com/sonervous7/SolVro-recruitment_v2/releases/download/v1.0/SolVro_recruitment_raport.pdf)
+### [Download report PDF](https://github.com/sonervous7/SolVro-recruitment_v2/releases/download/v1.0/SolVro_recruitment_raport.pdf)
 
 
 ### Project Structure
