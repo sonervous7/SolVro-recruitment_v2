@@ -36,11 +36,12 @@ The repository is organized into several modules, each responsible for a distinc
    cd cocktail-clustering
 2. **Create a virtual environment (optional but recommended)**:
    ```bash
-python3 -m venv venv
+   python3 -m venv venv
 source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
 
 
 3. **Usage**
+   ```bash
    python src/main.py
   
 ### Project Workflow
