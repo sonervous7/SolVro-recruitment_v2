@@ -37,10 +37,10 @@ The repository is organized into several modules, each responsible for a distinc
   ```
 
 2. **Create a virtual environment (optional but recommended)**:
-  ```
-    python3 -m venv venv
-    source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
-  ```
+```
+python3 -m venv venv
+source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
+```
 
 3. **Usage**
    ```
