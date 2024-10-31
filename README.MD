@@ -39,8 +39,9 @@ The repository is organized into several modules, each responsible for a distinc
     python3 -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 3. **Usage**
-  ```bash
-    python src/main.py
+
+   ```bash
+   python src/main.py
 
 ### Project Workflow
 
