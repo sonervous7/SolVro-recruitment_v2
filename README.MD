@@ -34,16 +34,14 @@ The repository is organized into several modules, each responsible for a distinc
    ```bash
    git clone https://github.com/yourusername/cocktail-clustering.git
    cd cocktail-clustering
-  ```
+  ```bash
 
 2. **Create a virtual environment (optional but recommended)**:
 ```
 python3 -m venv venv
 source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
-```
-
 3. **Usage**
-   ```
+  ```
    python src/main.py
   ```
 ### Project Workflow
