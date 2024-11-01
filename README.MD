@@ -59,7 +59,7 @@ The repository is organized into several modules, each responsible for a distinc
 7. **Clustering**: Groups cocktails into clusters based on engineered features.
 8. **Evaluation and Visualization**: Evaluates clustering quality and visualizes the clusters based on various attributes.
 
-Upon completion, you can find the output files in data folder (e.g., cluster_analysis.xlsx, clustered_cocktails.xlsx, full_cluster_analysis.xlsx, summary_statistics) in the data folder.
+Upon completion, you can find the output files in data folder (e.g., cluster_analysis.xlsx, clustered_cocktails.xlsx, full_cluster_analysis.xlsx, summary_statistics.xlsx) in the data folder.
 
 ---
 
