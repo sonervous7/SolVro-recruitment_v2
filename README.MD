@@ -36,7 +36,7 @@ The repository is organized into several modules, each responsible for a distinc
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/sonervous7/SolVro-recruitment_v2.git
-   cd cocktail-clustering
+   cd SolVro-recruitment_v2
 2. **Create a virtual environment (optional but recommended)**:
    ```bash
    python3 -m venv venv
