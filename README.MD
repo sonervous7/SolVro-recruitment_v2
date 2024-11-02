@@ -43,7 +43,7 @@ The repository is organized into several modules, each responsible for a distinc
    source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
 3. **Install requirements**
    ```bash
-   pip install -r /path/to/requirements.txt
+   pip install -r /path/requirements.txt
 4. **Usage**
    ```bash
    python src/main.py
